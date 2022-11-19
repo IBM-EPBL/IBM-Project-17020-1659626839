@@ -10,10 +10,10 @@ Team Size : 4
 
 Team Leader : Paranthaman .P
 
-Team member : Pragadeesh .S
+Team member 1 : Pragadeesh .S
 
-Team member : Shakthy Balan .D
+Team member 2 : Shakthy Balan .D
 
-Team member : Sandeepvasan .S
+Team member 3 : Sandeepvasan .S
 
 Demo Link : https://youtu.be/siiqDouG2zw
